@@ -148,7 +148,7 @@ h1{
   border: 2px solid white;
   display:inline-block;
   font-family: Helvetica;
-  padding:15px;
+  padding:6px;
   font-size:20px;
   background-color:#F8CC8C;
   border-radius:10px;
@@ -160,7 +160,7 @@ h1{
   transform: scale(1.1);
 }
 .button:active{
-  transform:translateY(15px);
+  transform:translateY(12px);
 }
 h2{
   display:inline;
